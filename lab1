@@ -1,20 +1,8 @@
-.
-├── 06.11.2023 -> dir/current_date/06.11.2023
-├─ ─ cat1
-│   ├── cat2
-│   │   ├── cat3
-│   │   │   └── cat7
-│   │   └── cat5
-│   ├── cat4
-│   └── cat8
-├── dir
-│   └── current_date
-│       └── 06.11.2023
-├── Good
-│   └── delony
-│       ├── Lab2
-│       ├── Labaratoka 1
-│       └── Labaratorka 2
-└── Labaratorka 2
-
-13 directories, 4 files
+man:Outputting the manual page
+info:Outputting the man page in GNU textinfo format
+echo:Outputting a text string
+pwd:Priting the user's current working directory
+date:Displays the current system date and timne
+who:Displaying a list of users authorized in the system
+ls:Displaying the contents of a directory
+cat:Outputting the contents of the file(s)
